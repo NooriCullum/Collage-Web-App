@@ -1,0 +1,26 @@
+.copy_right_footer {
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+
+body 
+{
+    background-color: lavenderblush;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.heading {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet
+}
+
+.popup_warning,.click_on_button {
+    color:cornflowerblue;
+}
+
+#camera {
+    
+}
